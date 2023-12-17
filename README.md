@@ -1,4 +1,4 @@
 # HPY_BDAY
-<h2 align="left"> HAPPY BIRTHDAY SRAVS</h2>
+<h2 align="left"> HAPPY BIRTHDAY </h2>
 
 
